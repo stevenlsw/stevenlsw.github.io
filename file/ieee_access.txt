@@ -1,0 +1,9 @@
+@ARTICLE{9028217,
+  author={S. {Liu} and G. {Wang} and P. {Xie} and C. {Zhang}},
+  journal={IEEE Access}, 
+  title={Light and Fast Hand Pose Estimation From Spatial-Decomposed Latent Heatmap}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={53072-53081},
+  doi={10.1109/ACCESS.2020.2979507}}
